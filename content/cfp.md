@@ -2,8 +2,6 @@
 title: "Call for Papers"
 ---
 
-SYNT 2027 takes place on July 20, 2027, in Amsterdam, Netherlands, co-located with [CAV 2027](https://conferences.i-cav.org/2027/).
-
 ## Important Dates
 
 **Submission:** To be announced.\
