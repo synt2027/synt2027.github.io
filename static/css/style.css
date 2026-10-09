@@ -763,6 +763,40 @@ ul.style3 .first {
 	#content
 	{
 	}
+
+	#content h2
+	{
+		margin: 1.5em 10px 0.5em 10px;
+		font-size: 1.4em;
+		font-weight: 700;
+		color: #D1551F;
+	}
+
+	#content h3
+	{
+		margin: 1.2em 10px 0.4em 10px;
+		font-size: 1.1em;
+		font-weight: 700;
+		color: #323338;
+	}
+
+	#content > p, #content > ul, #content > ol
+	{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#content ul, #content ol
+	{
+		margin-bottom: 1.5em;
+		line-height: 180%;
+		padding-left: 1.5em;
+	}
+
+	#content ul li
+	{
+		list-style: disc;
+	}
 	
 	#footer
 	{

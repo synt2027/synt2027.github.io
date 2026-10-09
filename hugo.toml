@@ -6,10 +6,10 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [params]
   edition = "16th Workshop on Synthesis"
-  venue = "Date and location to be announced"
+  venue = "July 20, 2027 — Amsterdam, Netherlands"
   submission = "TBA"
   notification = "TBA"
-  workshop = "TBA"
+  workshop = "July 20, 2027"
   archiveURL = "https://cgi.csc.liv.ac.uk/~sven/synt/"
 
 [[menus.main]]
